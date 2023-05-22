@@ -1,0 +1,15 @@
+Ejercicio 1,Primer ajuste,Mejor ajuste,Peor ajuste
+10Kb,12KB,10KB,17KB
+8Kb,17KB,12KB,12KB
+5Kb,5KB,5KB,10KB
+Ejercicio 2,,,
+5Kb,12KB,5KB,17KB
+14Kb,17KB,17KB,"No puede asignarse, se hace relocacion de memoria usando del libre total de 48Kb"
+3Kb,7KB (sobrante del primer bloque tras asignar 5Kb),3KB (sobrante del quinto bloque tras asignar 14KB),Usa del libre total de 34Kb
+Ejercicio 3,,,
+15Kb,17KB,17KB,17KB
+2Kb,12KB,2KB,12KB
+9Kb,10KB (sobrante del primer bloque asignar 2KB),10KB,10KB (sobrante del primer bloque tras asignar 2KB)
+,,,
+Bloques de memoria libre en orden,,,
+"12 KB, 5 KB, 2 KB, 6 KB, 17 KB. 1 KB y 10 KB.",,,
